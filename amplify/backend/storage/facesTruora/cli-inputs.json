@@ -1,0 +1,14 @@
+{
+  "resourceName": "facesTruora",
+  "policyUUID": "91d52231",
+  "bucketName": "facestruora-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Triggerdcd41b7e",
+  "groupAccess": {}
+}
