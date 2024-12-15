@@ -1,6 +1,7 @@
 {
   "name": "truora-app",
   "version": "0.1.0",
+  "homepage": "https://juan62976.github.io/truoraapp", 
   "private": true,
   "dependencies": {
     "@aws-amplify/auth": "^6.8.2",
