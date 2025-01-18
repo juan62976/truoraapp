@@ -1,6 +1,6 @@
 {
   "AWSTemplateFormatVersion": "2010-09-09",
-  "Description": "{\"createdOn\":\"Mac\",\"createdBy\":\"Amplify\",\"createdWith\":\"12.13.1\",\"stackType\":\"function-Lambda\",\"metadata\":{\"whyContinueWithGen1\":\"I find the Gen 1 CLI easier to use\"}}",
+  "Description": "{\"createdOn\":\"Windows\",\"createdBy\":\"Amplify\",\"createdWith\":\"12.14.1\",\"stackType\":\"function-Lambda\",\"metadata\":{\"whyContinueWithGen1\":\"I find the Gen 1 CLI easier to use\"}}",
   "Parameters": {
     "env": {
       "Type": "String"
