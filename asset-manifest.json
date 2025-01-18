@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/truoraapp/static/css/main.7e84e323.css",
-    "main.js": "/truoraapp/static/js/main.c92622da.js",
+    "main.js": "/truoraapp/static/js/main.8a900192.js",
     "static/js/453.96498eff.chunk.js": "/truoraapp/static/js/453.96498eff.chunk.js",
     "static/media/centralgrande.webp": "/truoraapp/static/media/centralgrande.d9ab31de06f215cb441a.webp",
     "static/media/Truora Logo.svg": "/truoraapp/static/media/Truora Logo.eecfd2716f18ede411e5b5875f486167.svg",
     "index.html": "/truoraapp/index.html",
     "main.7e84e323.css.map": "/truoraapp/static/css/main.7e84e323.css.map",
-    "main.c92622da.js.map": "/truoraapp/static/js/main.c92622da.js.map",
+    "main.8a900192.js.map": "/truoraapp/static/js/main.8a900192.js.map",
     "453.96498eff.chunk.js.map": "/truoraapp/static/js/453.96498eff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e84e323.css",
-    "static/js/main.c92622da.js"
+    "static/js/main.8a900192.js"
   ]
 }
