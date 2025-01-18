@@ -1,0 +1,56 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-truoraapp-dev-44785-authRole",
+      "UnauthRoleArn": "arn:aws:iam::594491365491:role/amplify-truoraapp-dev-44785-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::594491365491:role/amplify-truoraapp-dev-44785-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-truoraapp-dev-44785-deployment",
+      "UnauthRoleName": "amplify-truoraapp-dev-44785-unauthRole",
+      "StackName": "amplify-truoraapp-dev-44785",
+      "StackId": "arn:aws:cloudformation:us-east-1:594491365491:stack/amplify-truoraapp-dev-44785/32784d80-ab90-11ef-aa9a-0affc7938aed",
+      "AmplifyAppId": "d2y0xjm0frxw9g"
+    },
+    "categories": {
+      "auth": {
+        "truoraappa0a2a9f8": {}
+      },
+      "storage": {
+        "facesTruora": {}
+      },
+      "function": {
+        "S3Triggerdcd41b7e": {
+          "deploymentBucketName": "amplify-truoraapp-dev-44785-deployment",
+          "s3Key": "amplify-builds/S3Triggerdcd41b7e-3949506e626e636a6873-build.zip"
+        }
+      }
+    }
+  },
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-truoraapp-main-7e614-authRole",
+      "UnauthRoleArn": "arn:aws:iam::594491365491:role/amplify-truoraapp-main-7e614-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::594491365491:role/amplify-truoraapp-main-7e614-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-truoraapp-main-7e614-deployment",
+      "UnauthRoleName": "amplify-truoraapp-main-7e614-unauthRole",
+      "StackName": "amplify-truoraapp-main-7e614",
+      "StackId": "arn:aws:cloudformation:us-east-1:594491365491:stack/amplify-truoraapp-main-7e614/e3fc2d80-d541-11ef-9603-0affcaa999d7",
+      "AmplifyAppId": "d38xnlm8q9kfzh"
+    },
+    "categories": {
+      "auth": {
+        "truoraappa0a2a9f8": {}
+      },
+      "function": {
+        "S3Triggerdcd41b7e": {
+          "deploymentBucketName": "amplify-truoraapp-main-7e614-deployment",
+          "s3Key": "amplify-builds/S3Triggerdcd41b7e-3949506e626e636a6873-build.zip"
+        }
+      },
+      "storage": {
+        "facesTruora": {}
+      }
+    }
+  }
+}
